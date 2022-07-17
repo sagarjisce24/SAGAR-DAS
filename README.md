@@ -38,5 +38,5 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <p align="center">
-<img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sagarjisce24&theme=prussian&hide_border=true)](https://git.io/streak-stats)>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sagarjisce24&theme=prussian&hide_border=true)](https://git.io/streak-stats)>
 
