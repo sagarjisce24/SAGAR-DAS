@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning *REACT ,NODE JS, EXPRESS JS, MONGO DB*
 
-- 👯 I’m looking to collaborate on *[LinkedIn- Sagar Das](https://www.linkedin.com/in/sagardasjisce) *
+- 👯 I’m looking to collaborate on "[LinkedIn- Sagar Das](https://www.linkedin.com/in/sagardasjisce) "
 
 - 📫 How to reach me *sagardas.business@gmail.com*
 
